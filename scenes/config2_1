@@ -1,0 +1,23 @@
+light {
+	pos: 0,0,-40;
+	int: 123;
+}
+obj {
+	sphere {
+	pos: 0,0,0;
+	trs: 0,0,0;
+	rad: 10;
+	col: 255,0,0;
+	}
+	sphere {
+	pos: 0,0,0;
+	trs: -10,0,0;
+	rad: 10;
+	col: 255,0,255;
+	}						    }
+}
+cam {
+	pos: -5,0,-60;
+	rot: 0,0,0;
+	trs: 0,0,0;
+}

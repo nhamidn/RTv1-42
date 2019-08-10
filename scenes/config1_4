@@ -1,0 +1,19 @@
+light {
+	pos: 0,0,-60;
+	int: 123;
+}
+obj {
+	cylinder {
+		pos: 0,0,0;
+		trs: 0,0,0;
+		rot: 0,0,0;
+		dir: 0,1,0;
+		rad: 10;
+		col: 0,0,255;
+	}
+}
+cam {
+	pos: 0,0,-80;
+	rot: 0,0,0;
+	trs: 0,0,0;
+}
